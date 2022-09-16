@@ -42,7 +42,7 @@ function LogIn() {
         value='remember' 
         color='primary'/>}
         label='로그인 상태 유지'
-        sx={{mt:2}}
+        sx={{mt:2 }}
         >
         </FormControlLabel>
         
